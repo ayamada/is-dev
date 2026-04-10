@@ -1,8 +1,15 @@
 {
   "name": "@tir.jp/is-dev",
   "version": "1.0.0",
-  "description": "",
-  "keywords": [],
+  "description": "Lightweight environment detection and assertions optimized for tree-shaking and dead code elimination in bundlers like esbuild.",
+  "keywords": [
+    "is-dev",
+    "is-prod",
+    "assertion",
+    "tree-shaking",
+    "dead-code-elimination",
+    "esbuild"
+  ],
   "homepage": "https://github.com/ayamada/is-dev#readme",
   "bugs": {
     "url": "https://github.com/ayamada/is-dev/issues"
