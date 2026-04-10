@@ -1,0 +1,31 @@
+{
+  "name": "@tir.jp/is-dev",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/ayamada/is-dev#readme",
+  "bugs": {
+    "url": "https://github.com/ayamada/is-dev/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayamada/is-dev.git"
+  },
+  "type": "module",
+  "main": "./index.mjs",
+  "module": "./index.mjs",
+  "exports": {
+    ".": "./index.mjs"
+  },
+  "files": [
+    "./index.mjs"
+  ],
+  "author": "ayamada",
+  "contributors": [
+    "mac"
+  ],
+  "license": "Zlib",
+  "publishConfig": {
+    "access": "public"
+  }
+}
